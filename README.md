@@ -48,9 +48,19 @@ It gives doctors:
 
 
 
+
+
+##  System Workflow
+
+Doctor selects patient
+→ Frontend sends patient data
+→ FastAPI backend runs safety engine
+→ Supabase provides guideline and drug data
+→ AI generates recommendation
+→ Frontend displays alerts and medicines
+
+
 \## 🛠️ Tech Stack
-
-
 
 | Part | Technology |
 
@@ -314,13 +324,12 @@ Open `http://localhost:3000`
 \---
 
 
-\## 👨‍💻 Made by Arjun
-
+\## 👨‍💻 Developed by Arjun Sattu
 
 
 Built as part of healthcare AI project.
 
-Stack: Next.js + FastAPI + Supabase + WhatsApp QR
+Stack: Next.js, FastAPI, Supabase, REST APIs, AI Integration
 
 
 
