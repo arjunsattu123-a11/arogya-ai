@@ -314,25 +314,6 @@ Open `http://localhost:3000`
 \---
 
 
-
-\## ⚠️ Before Demo Day
-
-
-
-1\. Open 1mg.com
-
-2\. Check prices for Teneligliptin, Empagliflozin, Metformin
-
-3\. Update in Supabase if prices changed
-
-4\. Evaluators will check live prices during demo
-
-
-
-\---
-
-
-
 \## 👨‍💻 Made by Arjun
 
 
