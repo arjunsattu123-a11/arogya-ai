@@ -2,7 +2,7 @@
 
 \### AI-powered medicine recommendations for Indian doctors
 
-\*\*Made by Arjun\*\*
+\*\* Developed by Arjun Sattu \*\*
 
 
 
