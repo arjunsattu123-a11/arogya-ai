@@ -308,7 +308,7 @@ Open `http://localhost:3000`
 
 |--------|---------|
 
-| 1mg.com | Indian drug prices (checked fresh before demo) |
+| 1mg.com | Indian drug prices |
 
 | RSSDI 2022 | Type 2 diabetes guidelines |
 
